@@ -12,11 +12,6 @@ WeatherApp is a user-friendly and visually appealing weather application that ut
 - **Elegant Card Layout:** All weather information is presented on a sleek card layout with a smooth fade-in animation, making the data easy to read and aesthetically pleasing.
 - **Detailed Weather Information:** Displays key weather metrics including temperature, humidity, wind speed, and weather conditions.
 
-## How It Works
-1. **Enter a City Name:** The user inputs the name of the city they want to check the weather for.
-2. **Fetch Weather Data:** The app uses the OpenWeatherMap API to retrieve real-time weather information for the specified city.
-3. **Display Results:** The weather details are shown on a clean, material-designed card. The background image automatically updates to match the weather conditions in the city.
-
 ## Usage
 - **Search for Weather:** Simply type in the name of a city in the search bar, and the app will display the current weather conditions.
 - **Responsive Design:** The app is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
